@@ -1,0 +1,32 @@
+c:\users\lyz\documents\visual studio 2015\Projects\PostureRecognizer\PostureRecognizer\bin\Debug\PostureRecognizer.exe.config
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.csprojResolveAssemblyReference.cache
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\MainWindow.g.cs
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\App.g.cs
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer_MarkupCompile.cache
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer_MarkupCompile.lref
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\bin\Debug\PostureRecognizer.exe
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\bin\Debug\PostureRecognizer.pdb
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\bin\Debug\Microsoft.Kinect.dll
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\bin\Debug\Microsoft.Kinect.xml
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\MainWindow.baml
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.g.resources
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.Properties.Resources.resources
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.csproj.GenerateResource.Cache
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.exe
+C:\Users\lyz\Documents\Visual Studio 2015\Projects\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.pdb
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\bin\Debug\PostureRecognizer.exe.config
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.exe
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.pdb
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\bin\Debug\PostureRecognizer.exe
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\bin\Debug\PostureRecognizer.pdb
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\bin\Debug\Microsoft.Kinect.dll
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\bin\Debug\Microsoft.Kinect.xml
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.csprojResolveAssemblyReference.cache
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\MainWindow.g.cs
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\App.g.cs
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer_MarkupCompile.cache
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer_MarkupCompile.lref
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\MainWindow.baml
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.g.resources
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.Properties.Resources.resources
+D:\MyCodeGit\PostureRecognizerWithKinect2\PostureRecognizer\PostureRecognizer\obj\Debug\PostureRecognizer.csproj.GenerateResource.Cache
